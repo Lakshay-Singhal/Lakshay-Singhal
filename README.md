@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **Pre-Final Year CSE** undergrad at **NIT-Jalandhar.** 
+I'm a **Final Year CSE** undergrad at **NIT-Jalandhar.** 
 - 🔭 I’m currently working on `Web-Development` Projects that would create real world impact.
 - 🌱 I’m currently learning `Node JS` and `React JS`.      
 - ⚡ I love to be a part of various Hackathons as a Participant/Mentor or Organizer.
