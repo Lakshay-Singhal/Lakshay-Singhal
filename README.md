@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a **Final Year CSE** undergrad at **NIT-Jalandhar.** 
+I'm a **Software Engineer** undergrad at **Optum - UHG**, recently graduated from **NIT Jalandhar** 
 - 🔭 I’m currently working on `Web-Development` Projects that would create real world impact.
-- 🌱 I’m currently learning `Node JS` and `React JS`.      
+- 🌱 I’m currently learning `Angular JS`,`.Net` and much more.      
 - ⚡ I love to be a part of various Hackathons as a Participant/Mentor or Organizer.
 - 💭 I'm a Problem Solver and obsessed with the solving practical problems using technology as a source.    
 - 💻 I’m looking to collaborate on any thing which solves real world problems.   
